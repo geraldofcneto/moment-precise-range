@@ -1,0 +1,21 @@
+{
+  "name": "moment-precise-range",
+  "version": "0.0.1",
+  "homepage": "https://github.com/geraldofcneto/moment-precise-range",
+  "authors": [
+    "Geraldo Castro <geraldofcneto@gmail.com>"
+  ],
+  "description": "A bowerized moment.js plugin to display non-approximate human-readable date/time ranges",
+  "main": "readable-range.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "momentjs": "~2.8.4"
+  }
+}
